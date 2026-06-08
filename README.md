@@ -53,17 +53,6 @@ I'm an undergraduate student passionate about building scalable full-stack appli
 
 ---
 
-### 📊 GitHub Stats
-
-_(Replace `YOUR_GITHUB_USERNAME` with your actual username in the links below!)_
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DakshKr&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DakshKr&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="left">
